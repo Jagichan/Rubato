@@ -32,8 +32,9 @@ Command line: `build.bat [Release|Debug] [x64|x86]`.
 3. **Play** to listen - playback restarts by itself when you change a parameter.  **Bypass FX** = A/B with the original.
 4. **Apply All FXs** bakes the chain into the song (Undo available).  **Save As** exports what you see and hear.
 
-### Track list
-| Column | | |---|---|
+### Track list columns
+| Column | | 
+|---|---|
 | Mute / Solo | buttons, work while playing |
 | Ch / Patch | channel and General MIDI instrument name.  
 
