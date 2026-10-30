@@ -1,4 +1,5 @@
 // midi_fx.h - MIDI FX (effects) that transform a Track.  Platform independent.
+// (c) 2026, O.Jagannatha Rao (JagiChan)
 #pragma once
 #include <memory>
 #include <random>

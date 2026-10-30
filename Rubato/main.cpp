@@ -7,6 +7,7 @@
 //   * NON-DESTRUCTIVE: chains are a live preview (graphs + playback + export) and only change the song
 //     when you press "Apply All FXs" / "Apply all FXs"
 //   * real-time playback through any Windows MIDI output (winmm)
+// (c) 2026, O.Jagannatha Rao (JagiChan)
 #ifndef _CRT_SECURE_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
 #endif

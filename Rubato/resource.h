@@ -2,6 +2,7 @@
 // Microsoft Visual C++ generated include file.
 // Used by Rubato.rc
 //
+// (c) 2026, O.Jagannatha Rao (JagiChan)
 #define SW_HIDE                         0
 #define HIDE_WINDOW                     0
 #define WM_NULL                         0x0000

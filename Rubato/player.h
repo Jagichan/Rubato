@@ -1,4 +1,5 @@
 // player.h - Real-time MIDI playback through the Windows winmm MIDI output API.
+// (c) 2026, O.Jagannatha Rao (JagiChan)
 #pragma once
 #ifndef WIN32_LEAN_AND_MEAN
 #define WIN32_LEAN_AND_MEAN

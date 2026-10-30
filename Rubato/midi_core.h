@@ -1,5 +1,7 @@
 // midi_core.h - Platform independent MIDI data model, SMF reader/writer,
 // tempo map and note helpers.  No Windows dependencies.
+// (c) 2026, O.Jagannatha Rao (JagiChan)
+
 #pragma once
 #include <cstdint>
 #include <cstring>
