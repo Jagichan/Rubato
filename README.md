@@ -5,8 +5,10 @@ Rubato is a premium Windows utility designed to give your MIDI a pulse.
 *Because music happens between the lines.*
 
 Designed and Engineered : O.Jagannatha Rao (JagiChan)
+
 Coded using Claude AI : Model Sonnet 5.5
-Acknowlegement : Many thanks to Anthropic for providing such a powerful AI development platform.
+
+Acknowlegement : Many thanks to Anthropic for providing such a powerful AI development platform. https://www.anthropic.com/
 
 **License:** Open source GNU licensed (see LICENSE, https://www.gnu.org/licenses/gpl-3.0.txt). Clone it, fork it, rip it apart, rebuild it.
 If you find a bug, open an issue. If you want to add a feature, just do it and inform me and I'll merge it or else you can wait for me to implement it.
