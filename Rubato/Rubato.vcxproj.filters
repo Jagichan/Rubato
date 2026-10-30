@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0F8CE2A4-5BCC-4289-860B-827615BDDDAC}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3F389480-25D8-4622-84C2-0A3DEF1BEB0C}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{5B7A1E02-6C3D-4F0A-9E21-7D4C8A3B9F10}</UniqueIdentifier>
+      <Extensions>rc;ico;bmp</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine (platform independent)">
+      <UniqueIdentifier>{4A83BA29-089F-4028-B088-D83BBD8B3BD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp"><Filter>Source Files</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Rubato.rc"><Filter>Resource Files</Filter></ResourceCompile>
+    <Image Include="rubato.ico"><Filter>Resource Files</Filter></Image>
+    <None Include="splash_screen.jpg"><Filter>Resource Files</Filter></None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="midi_core.h"><Filter>Header Files\Engine (platform independent)</Filter></ClInclude>
+    <ClInclude Include="midi_fx.h"><Filter>Header Files\Engine (platform independent)</Filter></ClInclude>
+    <ClInclude Include="player.h"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+</Project>
